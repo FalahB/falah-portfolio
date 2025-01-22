@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/falah-portfolio/static/css/main.78ef4567.css",
-    "main.js": "/falah-portfolio/static/js/main.72aebecf.js",
+    "main.js": "/falah-portfolio/static/js/main.a39eb584.js",
     "index.html": "/falah-portfolio/index.html",
     "main.78ef4567.css.map": "/falah-portfolio/static/css/main.78ef4567.css.map",
-    "main.72aebecf.js.map": "/falah-portfolio/static/js/main.72aebecf.js.map"
+    "main.a39eb584.js.map": "/falah-portfolio/static/js/main.a39eb584.js.map"
   },
   "entrypoints": [
     "static/css/main.78ef4567.css",
-    "static/js/main.72aebecf.js"
+    "static/js/main.a39eb584.js"
   ]
 }
